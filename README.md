@@ -3,7 +3,7 @@
 
 Who am I? I'm a student from Germany, who is interested in computer and data science. For me, programming isn't just a hobby but rather a passion. Hence, I'm a self-taught software developer and data scientist. At the moment I'm studying business informatics with a major in data science in Karlsruhe, Germany. Any further questions? Feel free to ask!
 
-## Skilset
+## Skills
 These are some of the programming languages I know, frameworks and programming libraries that I know and use. I have taught myself many of the tools listed below over time. I also learned some programming languages and libraries during my academic career.
 
 ![](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white&style=for-the-badge)
