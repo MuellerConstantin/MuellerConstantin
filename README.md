@@ -1,57 +1,41 @@
 <h1 align="center">Hi 👋, I'm Constantin Müller</h1>
-<h3 align="center">I'm a passionate software developer, data science student and self-taught programmer.</h3>
+<img src="./images/banner.svg" alt="React" width="100%" height="auto"/>
 
-Who am I? I'm just a student from Germany, who is interested in computer and data science. For me, programming isn't just a hobby but rather a passion.
-At the moment I'm studying business informatics with a major in data science in Karlsruhe, Germany. My main interest is full stack development with
-Spring in the backend and React in the frontend. Any further questions? Feel free to ask!
+Who am I? I'm a student from Germany, who is interested in computer and data science. For me, programming isn't just a hobby but rather a passion. Hence, I'm a self-taught software developer and data scientist. At the moment I'm studying business informatics with a major in data science in Karlsruhe, Germany. Any further questions? Feel free to ask!
 
-## Skillset
+## Skilset
+These are some of the programming languages I know, frameworks and programming libraries that I know and use. I have taught myself many of the tools listed below over time. I also learned some programming languages and libraries during my academic career.
 
-<table>
-<tr>
-<td valign="top" width="33%">
+![](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Spring%20Boot-green?logo=spring-boot&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/React.js-blue?logo=react&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Express.js-gray?logo=express&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Tailwind.css-blue?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Scikit%20Learn-orange?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Tailwind.css-blue?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Bootstrap.css-blueviolet?logo=bootstrap&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
 
-<h3 align="center">Frontend</h3>
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="JavaScript" width="40" height="40"/>
-</div>
+## Tools
+These are tools that I use during development and infrastructure that I use for deployment.
 
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">Backend</h3>
-<div align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Linux" width="40" height="40"/>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">DevOps</h3>
-<div align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Linux" width="40" height="40"/>
-</div>
-
-</td>
-</tr>
-</table>
+![](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/JetBrains-blueviolet?logo=jetbrains&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Jupyter%20Notebooks-orange?logo=jupyter&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Data%20Version%20Control-blue?logo=dvc&logoColor=white&style=for-the-badge)
 
 ## Statistics
+Here you have some insights and statistics about my contribution history and projects on GitHub¹.
 
-[![0x1C1B's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x1C1B&count_private=true&show_icons=true)](https://github.com/0x1C1B)
-[![0x1C1B's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1C1B&layout=compact)](https://github.com/0x1C1B)
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api?username=0x1C1B&count_private=true&show_icons=true" />
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1C1B&layout=compact" />
+
+<small>¹The numbers might be differ from the actual ones.</small>
