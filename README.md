@@ -17,6 +17,7 @@ These are some of the programming languages I know, frameworks and programming l
 ![](https://img.shields.io/badge/Tailwind.css-blue?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Bootstrap.css-blueviolet?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Gatsby.js-blueviolet?logo=gatsby&logoColor=white&style=for-the-badge)
 
 ## Tools
 These are tools that I use during development and infrastructure that I use for deployment.
