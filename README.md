@@ -31,6 +31,7 @@ These are tools that I use during development and infrastructure that I use for 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Jupyter%20Notebooks-orange?logo=jupyter&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Data%20Version%20Control-blue?logo=dvc&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Qlik%20Sense-green?logo=qlik&logoColor=white&style=for-the-badge)
 
 ## Statistics
 Here you have some insights and statistics about my contribution history and projects on GitHub¹.
