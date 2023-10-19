@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Constantin Müller</h1>
 <img src="./images/banner.svg" alt="React" width="100%" height="auto"/>
 
-Who am I? I'm a student from Germany, who is interested in computer and data science. For me, programming isn't just a hobby but rather a passion. Hence, I'm a self-taught software developer and data scientist. At the moment I'm studying business informatics with a major in data science in Karlsruhe, Germany. Any further questions? Feel free to ask!
+Who am I? I'm a developer and data analyst from Germany, who is interested in computer and data science. For me, programming isn't just a hobby but rather a passion. Hence, I'm a self-taught software developer and data scientist. Any further questions? Feel free to ask!
 
 ## Skills
 These are some of the programming languages I know, frameworks and programming libraries that I know and use. I have taught myself many of the tools listed below over time. I also learned some programming languages and libraries during my academic career.
