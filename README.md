@@ -36,7 +36,7 @@ These are tools that I use during development and infrastructure that I use for 
 ## Statistics
 Here you have some insights and statistics about my contribution history and projects on GitHub¹.
 
-<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api?username=0x1C1B&count_private=true&show_icons=true" />
-<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1C1B&layout=compact" />
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api?username=MuellerConstantin&count_private=true&show_icons=true" />
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuellerConstantin&layout=compact" />
 
 <small>¹The numbers might be differ from the actual ones.</small>
