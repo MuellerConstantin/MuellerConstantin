@@ -32,11 +32,3 @@ These are tools that I use during development and infrastructure that I use for 
 ![](https://img.shields.io/badge/Jupyter%20Notebooks-orange?logo=jupyter&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Data%20Version%20Control-blue?logo=dvc&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Qlik%20Sense-green?logo=qlik&logoColor=white&style=for-the-badge)
-
-## Statistics
-Here you have some insights and statistics about my contribution history and projects on GitHub¹.
-
-<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api?username=MuellerConstantin&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide=contribs" />
-<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuellerConstantin&layout=donut&custom_title=My%20Most%20Used%20Languages" />
-
-<small>¹The numbers might be differ from the actual ones.</small>
